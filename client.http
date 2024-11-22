@@ -1,8 +1,0 @@
-###
-POST https://xhk32e5b6t5lqxwzh5gpxbqrem0uxxvj.lambda-url.us-east-1.on.aws/
-Content-Type: application/json
-
-{
-  "originalUrl": "https://www.globo.com.br/",
-  "expirationTime":"1732827864"
-}
